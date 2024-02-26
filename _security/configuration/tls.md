@@ -103,6 +103,8 @@ plugins.security.authcz.admin_dn:
 
 For security reasons, you can't use wildcards or regular expressions here.
 
+Each cluster member must have the identicle DN(s) configured for the security script to operate.
+
 
 ## (Advanced) OpenSSL
 
